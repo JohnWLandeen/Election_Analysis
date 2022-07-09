@@ -4,6 +4,9 @@
 The purpose of this election audit analysis was to become more familiar with the dispersion of voter features in the election_results csv through looping and conditional statements utilizing Python. We determine the number of votes per county as well as the votes per candidate and each respective percentage relative to the entire vote pool as a whole. We also find the largest county and the winner of the election.
 
 ## Election Audit Results
+
+![alt text](Resources/terminal results.PNG)
+
 * The grand total of votes cast in this congressional election numbers 369,711.
 * County Votes:
   * Jefferson: 10.5% (38,855)
@@ -11,9 +14,9 @@ The purpose of this election audit analysis was to become more familiar with the
   * Arapahoe: 6.7% (24,801)
 * Denver has a crushing 82.8 % of the 3 counties present making it easily the highest contributor for the election.
 * Candidate Votes: 
-  *Charles Casper Stockham: 23.0% (85,213)
-  *Diana DeGette: 73.8% (272,892)
-  *Raymon Anthony Doane: 3.1% (11,606)
+  * Charles Casper Stockham: 23.0% (85,213)
+  * Diana DeGette: 73.8% (272,892)
+  * Raymon Anthony Doane: 3.1% (11,606)
 * Diana Degette was the winner by far with 73.8% (272,892) of the total votes.
 
 ## Election Audit Summary
