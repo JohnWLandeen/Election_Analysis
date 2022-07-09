@@ -5,7 +5,7 @@ The purpose of this election audit analysis was to become more familiar with the
 
 ## Election Audit Results
 
-![alt text](Resources/terminal results.PNG)
+![alt text](Resources/terminal_results.PNG)
 
 * The grand total of votes cast in this congressional election numbers 369,711.
 * County Votes:
